@@ -1,5 +1,4 @@
 # Hadoop HDFS & MapReduce Lab
-Hadoop 3.4 cluster (HDFS + YARN) on Docker Compose with Python MapReduce jobs: replication, fault tolerance, combiners.
 
 A hands-on lab that runs a complete Hadoop 3.4.3 cluster (HDFS + YARN) on a single machine with Docker Compose, and uses it to explore HDFS block storage, replication and fault tolerance, and MapReduce jobs written in Python with Hadoop Streaming.
 
